@@ -43,11 +43,11 @@ URL:`https://raw.githubusercontent.com/VSCPickup/rec-data/refs/heads/main/v1/met
 
 ## 查看期数索引
 
-URL:`https://raw.githubusercontent.com/VSCPickup/rec-data/refs/heads/main/v1/collections/eousides-index`
+URL:`https://raw.githubusercontent.com/VSCPickup/rec-data/refs/heads/main/v1/episode/index.json`
 
 ## 查看往期推荐
 
-URL:`https://raw.githubusercontent.com/VSCPickup/rec-data/refs/heads/main/v1/collections/{期号}.json`
+URL:`https://raw.githubusercontent.com/VSCPickup/rec-data/refs/heads/main/v1/episode/{期号}.json`
 
 ## 查看最新推荐
 
