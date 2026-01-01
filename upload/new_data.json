@@ -1,122 +1,141 @@
 {
     "metadata": {
-        "episode": "011",
-        "timestamp": 1767280405.4167175
+        "episode": "012",
+        "timestamp": 1767280439.7224722
     },
     "videos": [
         {
             "type_": "电子",
-            "bvid": "BV1NtHXzhEHw",
-            "title": "被遗忘的",
-            "author": "FNS__",
-            "drop_time": "107.0",
+            "bvid": "BV13m2DBjEor",
+            "title": "Blue Radio #0080FF",
+            "author": "Zedmajor_",
+            "drop_time": "103.0",
             "default_cut_time": "20",
             "comments": [
                 {
-                    "author": "夜明子守歌",
-                    "content": "略带点空灵的感觉SUKI！调校很丝滑很流畅，真的值得一听！",
+                    "author": "五仔",
+                    "content": "味儿蛮正的合成波，虽然在母带上略有瑕疵，但编排成熟让人舒适，良曲",
                     "level": 1
                 }
             ],
-            "publish_time": "2025-09-10T17:09:47",
-            "singer": "洛天依VC",
+            "publish_time": "2025-12-10T00:00:00",
+            "singer": "徵羽摩柯ACE",
             "video_type": "刊组推荐",
-            "cid": 32301322138
+            "cid": 34614215740
         },
         {
-            "type_": "摇滚",
-            "bvid": "BV1X8a4zbEvQ",
-            "title": "宇宙吉他超人",
-            "author": "asphalt_紫雨",
-            "drop_time": "42.0",
-            "default_cut_time": "20",
-            "comments": [
-                {
-                    "author": "千帆舞",
-                    "content": "无需说太多，人人都是宇宙吉他超人。",
-                    "level": 1
-                }
-            ],
-            "publish_time": "2025-09-10T15:00:00",
-            "singer": "夢ノ結唱ROSESV",
-            "video_type": "刊组推荐",
-            "cid": 32172278796
-        },
-        {
-            "type_": "摇滚",
-            "bvid": "BV1ey28BoETy",
-            "title": "哀求",
-            "author": "SE淡淡",
-            "drop_time": "54.0",
-            "default_cut_time": "20",
-            "comments": [
-                {
-                    "author": "夜明子守歌",
-                    "content": "吉他写得很好听耶，题材方面是反对校园霸凌的一首曲子，从作词和pv方面也能看出作者对这个作品的用心程度，推荐一听",
-                    "level": 1
-                }
-            ],
-            "publish_time": "2025-12-04T10:31:51",
-            "singer": "洛天依XS",
-            "video_type": "刊组推荐",
-            "cid": 34488192898
-        },
-        {
-            "type_": "摇滚",
-            "bvid": "BV11nHxznENQ",
-            "title": "后世纪末逃避主义",
-            "author": "森中窃言_AlexDev",
-            "drop_time": "67.0",
+            "type_": "电子",
+            "bvid": "BV1UC2yB9ED1",
+            "title": "WEIRDO",
+            "author": "_白砂棠",
+            "drop_time": "108.0",
             "default_cut_time": "20",
             "comments": [
                 {
                     "author": "Karasu乌鸦P",
-                    "content": "轻过载的电吉他搭配电子元素，十分有想法的曲子！",
+                    "content": "无论是混音还是编曲都是很成熟的曲子，作曲也很好听",
                     "level": 1
                 }
             ],
-            "publish_time": "2025-10-02T12:00:09",
+            "publish_time": "2025-12-10T22:00:00",
+            "singer": "徵羽摩柯ACE",
+            "video_type": "刊组推荐",
+            "cid": 25926311575
+        },
+        {
+            "type_": "摇滚",
+            "bvid": "BV1CV2WB9Eut",
+            "title": "神们自己",
+            "author": "虚拟歌姬猎杀计划",
+            "drop_time": "0.0",
+            "default_cut_time": "20",
+            "comments": [
+                {
+                    "author": "鱼回烂片事务所",
+                    "content": "强力的新叙事曲企划，你们是何方神圣呢",
+                    "level": 1
+                }
+            ],
+            "publish_time": "2025-12-06T17:56:59",
+            "singer": "洛天依VC",
+            "video_type": "刊组推荐",
+            "cid": 34546125833
+        },
+        {
+            "type_": "摇滚",
+            "bvid": "BV18LmSBGEbY",
+            "title": "终夜",
+            "author": "Azure霁岚",
+            "drop_time": "99.0",
+            "default_cut_time": "20",
+            "comments": [
+                {
+                    "author": "Karasu乌鸦P",
+                    "content": "电子和金属味摇滚的组合，很有新意的听感",
+                    "level": 1
+                }
+            ],
+            "publish_time": "2025-12-13T11:00:00",
             "singer": "星尘SV",
             "video_type": "刊组推荐",
-            "cid": 32776126679
+            "cid": 34701903671
         },
         {
             "type_": "流行",
-            "bvid": "BV1by2YBsE4X",
-            "title": "青橙",
-            "author": "以方在逃中",
-            "drop_time": "207.0",
+            "bvid": "BV1x7m3B4EH4",
+            "title": "第九条命",
+            "author": "直到凌晨也无法安眠",
+            "drop_time": "0.0",
             "default_cut_time": "20",
             "comments": [
                 {
-                    "author": "夜明子守歌",
-                    "content": "听到这首歌感觉就像是在忙碌生活中突然找到了自己的加油站、存档点，宁静又安逸的风格最棒了！",
+                    "author": "鱼回烂片事务所",
+                    "content": "似乎已经在爱原神的道路上狂奔起来的安眠老师，富有情绪的作曲和舒适的编曲，就像猫妖讲起了炉边故事。",
                     "level": 1
                 }
             ],
-            "publish_time": "2025-12-04T20:00:00",
-            "singer": "星尘SV、牧心SV",
+            "publish_time": "2025-12-12T16:00:00",
+            "singer": "星尘SV",
             "video_type": "刊组推荐",
-            "cid": 34490747411
+            "cid": 34693251184
         },
         {
-            "type_": "流行",
-            "bvid": "BV1FhyPB9ENK",
-            "title": "属于今天的蛋糕",
-            "author": "小爱P",
-            "drop_time": "74.0",
+            "type_": "另类",
+            "bvid": "BV1gfm7BXETq",
+            "title": "宴请八方",
+            "author": "小刀Producer",
+            "drop_time": "71.0",
             "default_cut_time": "20",
             "comments": [
                 {
-                    "author": "北极星",
-                    "content": "哇呜，十分美味的蛋糕，感谢您的盛情款待！",
+                    "author": "五仔",
+                    "content": "要态度有态度 要特点有特点 要水平有水平 要情怀有情怀，刀老师每一首曲子都更进一步的让我感叹他的理念和创意",
                     "level": 1
                 }
             ],
-            "publish_time": "2025-11-28T18:00:00",
-            "singer": "洛天依ACE",
-            "video_type": "刊组推荐",
-            "cid": 34136851530
+            "publish_time": "2025-12-12T18:30:31",
+            "singer": "星尘SV",
+            "video_type": "作者自荐",
+            "cid": 34692860989
+        },
+        {
+            "type_": "另类",
+            "bvid": "BV1Bd2QBfEPa",
+            "title": "喊魂",
+            "author": "小刀Producer",
+            "drop_time": "58.0",
+            "default_cut_time": "20",
+            "comments": [
+                {
+                    "author": "Karasu乌鸦P",
+                    "content": "古琴、萧、木鱼和若干打击乐构建了诡谲深邃的氛围，葫芦丝（或许？）和唢呐将脑中紧绷的琴弦片刻舒展，而后又化作一声声似兽似妖的鸣叫，重新将思绪拉回这片神秘的大山。十分有新意的优秀作品，对民俗的刻画相当成功。",
+                    "level": 1
+                }
+            ],
+            "publish_time": "2025-12-06T21:36:45",
+            "singer": "星尘SV",
+            "video_type": "作者自荐",
+            "cid": 34551498942
         }
     ]
 }
