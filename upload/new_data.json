@@ -1,198 +1,122 @@
 {
     "metadata": {
-        "episode": "010",
-        "timestamp": 1767280357.8174767
+        "episode": "011",
+        "timestamp": 1767280405.4167175
     },
     "videos": [
         {
             "type_": "电子",
-            "bvid": "BV1TpkDBoEge",
-            "title": "午夜格式化指南",
-            "author": "PoKeR_扑克",
-            "drop_time": "19.0",
+            "bvid": "BV1NtHXzhEHw",
+            "title": "被遗忘的",
+            "author": "FNS__",
+            "drop_time": "107.0",
             "default_cut_time": "20",
             "comments": [
                 {
-                    "author": "北极星",
-                    "content": "将烦恼格式化，将快乐永存储。",
+                    "author": "夜明子守歌",
+                    "content": "略带点空灵的感觉SUKI！调校很丝滑很流畅，真的值得一听！",
                     "level": 1
                 }
             ],
-            "publish_time": "2025-11-11T11:00:00",
-            "singer": "洛天依ACE",
-            "video_type": "刊组推荐",
-            "cid": 33856750513
-        },
-        {
-            "type_": "电子",
-            "bvid": "BV1LukrB2Ezd",
-            "title": "Memory Overload.",
-            "author": "请叫我Peydarg",
-            "drop_time": "56.0",
-            "default_cut_time": "20",
-            "comments": [
-                {
-                    "author": "北极星",
-                    "content": "记忆已超载，人、事、物、镜中我与真我，该如何取舍？",
-                    "level": 1
-                }
-            ],
-            "publish_time": "2025-11-11T15:35:05",
-            "singer": "诗岸SV",
-            "video_type": "刊组推荐",
-            "cid": 33911016764
-        },
-        {
-            "type_": "摇滚",
-            "bvid": "BV1XZ1DByEUL",
-            "title": "扑你个街",
-            "author": "rat_P",
-            "drop_time": "189.0",
-            "default_cut_time": "20",
-            "comments": [
-                {
-                    "author": "KARASU乌鸦P",
-                    "content": "硬摇在中术很少见，老登摇滚的吉他编配还是值得一听的，结尾薄纱对味了",
-                    "level": 1
-                }
-            ],
-            "publish_time": "2025-11-08T20:17:46",
-            "singer": "诗岸SV",
-            "video_type": "组员作品",
-            "cid": 33828048770
-        },
-        {
-            "type_": "摇滚",
-            "bvid": "BV1CfCtBZEEx",
-            "title": "Rewind",
-            "author": "秋铃Qrin",
-            "drop_time": "56.0",
-            "default_cut_time": "20",
-            "comments": [
-                {
-                    "author": "北极星",
-                    "content": "于冬日倒带回夏天，途有雁与秋叶，终有夏与蝉鸣。",
-                    "level": 1
-                }
-            ],
-            "publish_time": "2025-11-13T21:36:58",
-            "singer": "星尘SV",
-            "video_type": "刊组推荐",
-            "cid": 33978581753
-        },
-        {
-            "type_": "摇滚",
-            "bvid": "BV1TepQzaEWt",
-            "title": "Marionette",
-            "author": "现充爆炸乐队",
-            "drop_time": "65.0",
-            "default_cut_time": "20",
-            "comments": [
-                {
-                    "author": "北极星",
-                    "content": "人偶心中诞生的真我，不是利刃而是枷锁，同操纵线将自由牢牢锁死。",
-                    "level": 1
-                }
-            ],
-            "publish_time": "2025-09-21T14:00:00",
-            "singer": "星尘SV",
-            "video_type": "刊组推荐",
-            "cid": 32778357232
-        },
-        {
-            "type_": "摇滚",
-            "bvid": "BV1JjkBB5EHJ",
-            "title": "滚！",
-            "author": "夜踊_Yoodori",
-            "drop_time": "0.0",
-            "default_cut_time": "20",
-            "comments": [
-                {
-                    "author": "Lx2710",
-                    "content": "劲爆的吉他切音，沉稳的节奏组，简直是这首歌的灵魂，段落安排也很有意思，难得的中v摇滚佳作",
-                    "level": 1
-                }
-            ],
-            "publish_time": "2025-11-11T12:00:00",
-            "singer": "洛天依ACE",
-            "video_type": "刊组推荐",
-            "cid": 33961018535
-        },
-        {
-            "type_": "流行",
-            "bvid": "BV1GQW9zDEJs",
-            "title": "雪孩子",
-            "author": "Solace-绝爵子p",
-            "drop_time": "109.0",
-            "default_cut_time": "20",
-            "comments": [
-                {
-                    "author": "千帆舞",
-                    "content": "配乐方面着实是如同繁星一般的搭配，耳边的乐器、乐句，都是非常丰富的。从冬日雪满地到春时化雪来，在大部分人眼中都是很美好的事，但对雪孩子来说却是自己生命消逝的过程。从一开始雪孩子的诞生就代表了“我”想要逃离孤独的存在。",
-                    "level": 1
-                }
-            ],
-            "publish_time": "2025-10-24T17:00:00",
-            "singer": "洛天依ACE",
-            "video_type": "刊组推荐",
-            "cid": 33268435693
-        },
-        {
-            "type_": "流行",
-            "bvid": "BV1xm4rz1Eet",
-            "title": "请把我除名",
-            "author": "言爷",
-            "drop_time": "130.0",
-            "default_cut_time": "20",
-            "comments": [
-                {
-                    "author": "千帆舞",
-                    "content": "乐器编排偏惬意的排法相不同的是，歌词里塑造的是一个被左右还被无视的人在面对了那么多ta们的针对、利用、伤害过后并没有被侵占大脑，",
-                    "level": 1
-                }
-            ],
-            "publish_time": "2025-10-13T04:35:04",
-            "singer": "洛天依ACE",
-            "video_type": "刊组推荐",
-            "cid": 33026674074
-        },
-        {
-            "type_": "另类",
-            "bvid": "BV1A4uKzaEgi",
-            "title": "念",
-            "author": "刻子_コツ\n",
-            "drop_time": "133.0",
-            "default_cut_time": "20",
-            "comments": [
-                {
-                    "author": "千帆舞",
-                    "content": "柔和且舒适的音色搭配上非常直白但却非非常暧昧的语句，平淡的语气，柔和的编排，搭配上直白的歌词，其塑造的反差感以一种“平淡却热烈”的感觉将爱意迸发出来。",
-                    "level": 1
-                }
-            ],
-            "publish_time": "2025-07-11T12:00:00",
-            "singer": "诗岸SV",
-            "video_type": "刊组推荐",
-            "cid": 30965760459
-        },
-        {
-            "type_": "另类",
-            "bvid": "BV1uYCgBXEhN",
-            "title": "“日出”",
-            "author": "g-l-o-w_",
-            "drop_time": "55.0",
-            "default_cut_time": "20",
-            "comments": [
-                {
-                    "author": "北极星",
-                    "content": "天明曦光暗，声鸣孤心灼。",
-                    "level": 1
-                }
-            ],
-            "publish_time": "2025-11-15T08:00:00",
+            "publish_time": "2025-09-10T17:09:47",
             "singer": "洛天依VC",
             "video_type": "刊组推荐",
-            "cid": 34010106738
+            "cid": 32301322138
+        },
+        {
+            "type_": "摇滚",
+            "bvid": "BV1X8a4zbEvQ",
+            "title": "宇宙吉他超人",
+            "author": "asphalt_紫雨",
+            "drop_time": "42.0",
+            "default_cut_time": "20",
+            "comments": [
+                {
+                    "author": "千帆舞",
+                    "content": "无需说太多，人人都是宇宙吉他超人。",
+                    "level": 1
+                }
+            ],
+            "publish_time": "2025-09-10T15:00:00",
+            "singer": "夢ノ結唱ROSESV",
+            "video_type": "刊组推荐",
+            "cid": 32172278796
+        },
+        {
+            "type_": "摇滚",
+            "bvid": "BV1ey28BoETy",
+            "title": "哀求",
+            "author": "SE淡淡",
+            "drop_time": "54.0",
+            "default_cut_time": "20",
+            "comments": [
+                {
+                    "author": "夜明子守歌",
+                    "content": "吉他写得很好听耶，题材方面是反对校园霸凌的一首曲子，从作词和pv方面也能看出作者对这个作品的用心程度，推荐一听",
+                    "level": 1
+                }
+            ],
+            "publish_time": "2025-12-04T10:31:51",
+            "singer": "洛天依XS",
+            "video_type": "刊组推荐",
+            "cid": 34488192898
+        },
+        {
+            "type_": "摇滚",
+            "bvid": "BV11nHxznENQ",
+            "title": "后世纪末逃避主义",
+            "author": "森中窃言_AlexDev",
+            "drop_time": "67.0",
+            "default_cut_time": "20",
+            "comments": [
+                {
+                    "author": "Karasu乌鸦P",
+                    "content": "轻过载的电吉他搭配电子元素，十分有想法的曲子！",
+                    "level": 1
+                }
+            ],
+            "publish_time": "2025-10-02T12:00:09",
+            "singer": "星尘SV",
+            "video_type": "刊组推荐",
+            "cid": 32776126679
+        },
+        {
+            "type_": "流行",
+            "bvid": "BV1by2YBsE4X",
+            "title": "青橙",
+            "author": "以方在逃中",
+            "drop_time": "207.0",
+            "default_cut_time": "20",
+            "comments": [
+                {
+                    "author": "夜明子守歌",
+                    "content": "听到这首歌感觉就像是在忙碌生活中突然找到了自己的加油站、存档点，宁静又安逸的风格最棒了！",
+                    "level": 1
+                }
+            ],
+            "publish_time": "2025-12-04T20:00:00",
+            "singer": "星尘SV、牧心SV",
+            "video_type": "刊组推荐",
+            "cid": 34490747411
+        },
+        {
+            "type_": "流行",
+            "bvid": "BV1FhyPB9ENK",
+            "title": "属于今天的蛋糕",
+            "author": "小爱P",
+            "drop_time": "74.0",
+            "default_cut_time": "20",
+            "comments": [
+                {
+                    "author": "北极星",
+                    "content": "哇呜，十分美味的蛋糕，感谢您的盛情款待！",
+                    "level": 1
+                }
+            ],
+            "publish_time": "2025-11-28T18:00:00",
+            "singer": "洛天依ACE",
+            "video_type": "刊组推荐",
+            "cid": 34136851530
         }
     ]
 }
