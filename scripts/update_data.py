@@ -17,6 +17,9 @@ def update_metadata(data: dict):
 def add_index(data: dict):
     with open(DATA_PATH / "episode" / "index.json", "r", encoding="utf8") as f:
         index = json.load(f)
+    for item in index:
+        if item["episode"] == int(data["metadata"]["episode"]):
+            return
     index.append(
         {
             "episode": int(data["metadata"]["episode"]),
