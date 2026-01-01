@@ -2,6 +2,9 @@ name: "Update Latest Data"
 
 run-name: "Update Latest Data Submit by #${{github.sha}}"
 
+permissions:
+  contents: write
+
 on:
   push:
     branches: ["main"]
