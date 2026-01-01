@@ -35,4 +35,20 @@
 
 # 使用
 
-TODO...设计中
+## 查询Metadata
+
+这里存放与VSCPickup节目相关的部分元信息
+
+URL:`https://raw.githubusercontent.com/VSCPickup/rec-data/refs/heads/main/v1/metadata.json`
+
+## 查看期数索引
+
+URL:`https://raw.githubusercontent.com/VSCPickup/rec-data/refs/heads/main/v1/collections/eousides-index`
+
+## 查看往期推荐
+
+URL:`https://raw.githubusercontent.com/VSCPickup/rec-data/refs/heads/main/v1/collections/{期号}.json`
+
+## 查看最新推荐
+
+URL:`https://raw.githubusercontent.com/VSCPickup/rec-data/refs/heads/main/v1/latest.json`
