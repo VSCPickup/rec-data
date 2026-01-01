@@ -1,0 +1,26 @@
+name: "Update Latest Data"
+
+run-name: "Update Latest Data Submit by #${{github.sha}}"
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-22.04
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5.0.0
+        with:
+          python-version: "3.12"
+      - name: Update Datas
+        run: python scripts/update_data.py
+      - name: Commit and Push
+        uses: stefanzweifel/git-auto-commit-action@v4
+
+
