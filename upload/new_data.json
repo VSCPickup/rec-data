@@ -1,7 +1,7 @@
 {
     "metadata": {
-        "episode": "001",
-        "timestamp": 1767246457.7084787
+        "episode": "009",
+        "timestamp": 1767280091.6040616
     },
     "videos": [
         {
@@ -228,6 +228,44 @@
             "singer": "星尘SV",
             "video_type": "刊组推荐",
             "cid": 33555613545
+        },
+        {
+            "type_": "另类",
+            "bvid": "BV1XP1YBZE2w",
+            "title": "西子湖",
+            "author": "十六夜三呵_TN163",
+            "drop_time": "126.0",
+            "default_cut_time": "20",
+            "comments": [
+                {
+                    "author": "寒火",
+                    "content": "《西子湖》是一次望穿西湖的尝试，用人类最高的精神力去探索目之所及的可能，在现代的配器展现出当代西湖慵懒与匆忙纠缠的氛围，寻找到一个又一个有关当代西湖的片段，一直望穿到那个吹洞箫的西湖。",
+                    "level": 1
+                }
+            ],
+            "publish_time": "2025-11-03T19:05:00",
+            "singer": "星尘SV",
+            "video_type": "刊组推荐",
+            "cid": 33655491850
+        },
+        {
+            "type_": "另类",
+            "bvid": "BV18eswzNEm9",
+            "title": "塗蚓罐頭",
+            "author": "乌鸦Producer",
+            "drop_time": "217.0",
+            "default_cut_time": "20",
+            "comments": [
+                {
+                    "author": "Karasu乌鸦P",
+                    "content": "方言术狠人定律，氛围感十足",
+                    "level": 1
+                }
+            ],
+            "publish_time": "2025-10-19T16:49:48",
+            "singer": "初音未来VC、诗岸SV",
+            "video_type": "刊组推荐",
+            "cid": 33209125733
         }
     ]
 }
