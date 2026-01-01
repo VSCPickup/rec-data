@@ -43,7 +43,7 @@ def get_index_len():
         return len(json.load(f))
 
 def main():
-    with open(Path("upload") / "update_data.json", "r", encoding="utf8") as f:
+    with open(Path("upload") / "new_data.json", "r", encoding="utf8") as f:
         new_data = json.load(f)
     add_index(new_data)
     update_metadata(new_data)
