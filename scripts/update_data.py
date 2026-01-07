@@ -32,6 +32,8 @@ def add_index(data: dict):
     print("update index.json done")
 
 def update_latest(data: dict):
+    
+    data.pop()
     with open(DATA_PATH  / "latest.json", "w", encoding="utf8") as f:
         json.dump(data, f, ensure_ascii=False)
     print("update latest.json done")
@@ -48,11 +50,15 @@ def get_index_len():
 def main():
     with open(Path("upload") / "new_data.json", "r", encoding="utf8") as f:
         new_data = json.load(f)
+    as_new = new_data["upload_config"]["as_new"]
     add_index(new_data)
     update_metadata(new_data)
-    update_latest(new_data)
+    if as_new:
+        update_latest(new_data)
+    else:
+        print("skip update latest.json")
     add_new_json(new_data)
-    print(f"update #{new_data["metadata"]["episode"]} done, total:{get_index_len()}")
+    print(f"update #{new_data['metadata']['episode']} done, total:{get_index_len()}")
 
 if __name__ == "__main__":
     main()
