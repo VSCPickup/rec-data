@@ -94,7 +94,7 @@ URL:`https://raw.githubusercontent.com/VSCPickup/rec-data/refs/heads/main/datas/
       "title": "关于它的恐惧", // 视频标题
       "author": "衝泡飲品", // 作者B站昵称/圈名
       "drop_time": "105.0", // 我们选择的精彩片段开始时间（单位秒）
-      "default_cut_time": "20", // 我们截入视频的市场（单位秒）
+      "default_cut_time": "20", // 我们截入视频的时长（单位秒）
                                 // 从drop_time一直切到drop_time+default_cut_time，持续default_cut_time秒
       "comments": [ // 推荐理由数组
         {
